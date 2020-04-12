@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Elevate English',
-  tagline: 'Learn to Speak English',
+  tagline: 'Learn to Speak English Naturally',
   featureImage: '/uploads/home.png',
   logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
