@@ -1,7 +1,7 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact"
+      title="Contact Us"
       subtitle="Elevate English is here to support you!"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
@@ -18,7 +18,7 @@
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/contact.jpg').src"
                   :srcset="
                     require('~/assets/uploads/contact.jpg').srcSet
                   "
@@ -28,15 +28,11 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    Questions about how to learn English? Thoughts you'd like to share?
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  Please use this form to ask us any questions, or give us comments, feedback, or suggestions about our services. We want to hear from you! We may not reply right away, but we read every submission and will write you a reply as soon as we can.
                 </p>
               </div>
             </article>
