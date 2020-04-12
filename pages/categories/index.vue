@@ -10,7 +10,7 @@
 export default {
   head() {
     return {
-      title: `Blog | ${this.$siteConfig.siteName}`
+      title: `Categories | ${this.$siteConfig.siteName}`
     }
   }
 }
