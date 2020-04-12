@@ -13,10 +13,10 @@
           </p>
           <h3>The Elevate Method</h3>
           <p>
-            1.Learn basic words and grammar
-            2.Input: Listening and Reading
-            3.Output: Speaking and Writing
-            4.Regular Practice
+            1. Learn basic words and grammar
+            2. Input: Listening and Reading
+            3. Output: Speaking and Writing
+            4. Regular Practice
           </p>
           <p>
             <strong>Read full post to learn more about the Elevate Method</strong> 
@@ -37,7 +37,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Elevate English Podcast
+                Podcast
               </p>
               <p class="subtitle">
                Interesting topics (slow or fast speaking speed) with full transcripts
@@ -50,10 +50,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Elevate English on YouTube
+                YouTube
               </p>
               <p class="subtitle">
-                Watch videos about helpful language learning tips from Anne
+                Watch videos about language learning tips
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
@@ -63,7 +63,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Elevate English Blog
+                Blog
               </p>
               <p class="subtitle">
                 Read full length posts on interesting topics and language learning strategies
