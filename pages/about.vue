@@ -21,6 +21,23 @@
           <p>
             <strong>Read full post to learn more about the Elevate Method</strong> 
           </p>
+          <br />
+          <article class="tile is-child box">
+            <p class="title">
+              About Anne
+            </p>
+            <p class="subtitle">
+              BA Psychology, University of British Colombia
+            </p>
+            <figure class="image is-1by1 ">
+              <opti-image
+                :src="require('~/assets/uploads/contact.jpg').src"
+                :srcset="
+                  require('~/assets/uploads/contact.jpg').srcSet
+                "
+              />
+            </figure>
+          </article>
           <h3>About Anne</h3>
            <p>
             <strong>
