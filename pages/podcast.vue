@@ -84,6 +84,6 @@ export default {
       title: `About | ${this.$siteConfig.siteName}`
     }
   },
-  components: { QuoteCardTwo }
+  components: { QuoteCard }
 }
 </script>
