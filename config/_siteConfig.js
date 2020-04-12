@@ -27,14 +27,19 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Blog',
-      link: '/categories'
-    },
-    {
       name: 'Podcast',
       link: '/podcast'
     },
+    {
+      name: 'YouTube',
+      link: 'https://www.youtube.com/channel/UCslgL5Q4nY0dxWJmFh4CVUw/featured'
+    },
+    {
+      name: 'Blog',
+      link: '/categories'
+    },    
   ],
+  
   hero: {
     theme: 'dark' // options: mist, light, dark
   },
