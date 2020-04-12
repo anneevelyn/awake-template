@@ -21,7 +21,7 @@
           <p>
             I want your opinions! If there is a topic you want me to make an episode about, use the Contact form on my website to let me know. Put "Podcast Idea" as the subject tell me about your ideas.
           </p>
-         <quote-card-two />
+         <quote-card />
         </div>
 
         <div class="tile is-ancestor">
