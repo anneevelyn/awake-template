@@ -42,7 +42,7 @@
               <p class="subtitle">
                Interesting topics (slow or fast speaking speed) with full transcripts
               </p>
-              <img src="./assets/uploads/podcast-tile.png" />
+              <img src="../assets/uploads/podcast-tile.png" />
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
               </figure>
