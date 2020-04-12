@@ -44,7 +44,6 @@
               </p>
               <figure class="image is-1by1">
                 <img src="./assets/uploads/podcast-tile.png" />
-                <opti-image width="500" height="500" />
               </figure>
             </article>
           </div>
@@ -58,7 +57,6 @@
               </p>
               <figure class="image is-1by1">
                 <img src="./assets/uploads/youtube-tile.png" />
-                <opti-image width="500" height="500" />
               </figure>
             </article>
           </div>
@@ -72,7 +70,6 @@
               </p>
               <figure class="image is-1by1">
                 <img src="./assets/uploads/blog-tile.png" />
-                <opti-image width="500" height="500" />
               </figure>
             </article>
           </div>
