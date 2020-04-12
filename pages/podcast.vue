@@ -7,30 +7,21 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>How can I learn to actually <i>speak<i> English?</h3>
+          <h3>Elevate English Podcast</h3>
           <p>
-            Hi, I'm Anne. I created Elevate English after hundreds of students asked me this question. I can read, write and understand English, but I always feel blocked when speaking. What should I do? I developed a method to help English learners at all levels improve their speaking and overall language skills. This method is based on theories from psycholinguistics, learning psychology, and my experience as an ESL teacher.
+            <strong>This podcast is for intermediate English learners who want something interesting to listen to.</strong>
           </p>
-          <h3>The Elevate Method</h3>
-          <ol>
-            <li>Learn basic words and grammar</li>
-            <li>Input: Listening and Reading</li>
-            <li>Output: Speaking and Writing</li>
-            <li>Regular Practice</li>
-          </ol>
-          <p>
-            <strong>Read full post to learn more about the Elevate Method</strong> 
-          </p>
-          <h3>About Anne</h3>
-           <p>
-            <strong>
-              BA Psychology, University of British Colombia
-            </strong>
           </p>
           <p>
-            I grew up in Seattle, in the United States. After high school I moved to Vancouver, Canada to study Psychology. I've loved traveling and learning languages since I was young. I got my certificate in Teaching English as a Foreign Language (TEFL) after graduation, and started traveling the world while teaching English. Six months ago I moved to France. I studied French in high school, but I didn't feel like I learned the language well with only grammar and vocabulary. Instead, I improved my French naturally by listening to podcasts, watching YouTube videos and TV shows, and by talking to new friends French, even though it was scary at first. I want to help my English students in the same way. Even if they can't move to an English speaking country, my podcasts, YouTube channel, and blog posts can help them learn English naturally at home.
+            I noticed that there are a lot of apps, books, and exercises for beginners, for people who are just starting to learn English. And for people who have an advanced level, they can read, watch, or listen to English content for native speakers, like American TV shows or British newspapers, because they can already understand it. 
           </p>
-          <quote-card />
+          <p>
+            But between those two groups, there are people who have an intermediate level who can’t always understand traditional English media. They find that native speakers talk too fast for example, or they use complicated words and expressions. This podcast will help you learn English through listening to lots of different interesting subjects. We won’t learn grammar rules or memorize lists of words. Instead, I will simply speak to you about things like travel, culture, history, and psychology, my favorite subject. 
+          </p>
+          <p>
+            I want your opinions! If there is a topic you want me to make an episode about, use the Contact form on my website to let me know. Put "Podcast Idea" as the subject tell me about your ideas.
+          </p>
+          <img src="podcast-quote.jpg" alt="Listening is not the same as hearing, and hearing is not the same as listening. Pauline Oliveros" style="height:500px">
         </div>
 
         <div class="tile is-ancestor">
