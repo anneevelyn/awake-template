@@ -40,7 +40,7 @@
                 Podcast
               </p>
               <p class="subtitle">
-               Interesting topics (slow or fast speaking speed) with full transcripts
+               Interesting topics (choose slow or fast speaking speed) with full transcripts
               </p>
               <img src="../assets/uploads/podcast-tile.png" />
             </article>
@@ -51,11 +51,9 @@
                 YouTube
               </p>
               <p class="subtitle">
-                Language learning tips, idomatic expressions, and other fun English content
+                Language learning tips, idiomatic expressions, and other fun English content
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
+              <img src="../assets/uploads/youtube-tile.png" /> 
             </article>
           </div>
           <div class="tile is-parent">
@@ -66,9 +64,7 @@
               <p class="subtitle">
                 Read full length posts on interesting topics and language learning strategies
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
+              <img src="../assets/uploads/blog-tile.png" />
             </article>
           </div>
         </div>
