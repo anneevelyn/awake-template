@@ -19,7 +19,7 @@
             But between those two groups, there are people who have an intermediate level who can’t always understand traditional English media. They find that native speakers talk too fast for example, or they use complicated words and expressions. This podcast will help you learn English through listening to lots of different interesting subjects. We won’t learn grammar rules or memorize lists of words. Instead, I will simply speak to you about things like travel, culture, history, and psychology, my favorite subject. 
           </p>
           <p>
-            I want your opinions! If there is a topic you want me to make an episode about, use the <a href="/contact"> Contact </a> form on my website to let me know. Put "Podcast Idea" as the subject tell me about your ideas.
+            I want your opinions! If there is a topic you want me to make an episode about, use the <a href="/contact"> Contact</a> form on my website to let me know. Put "Podcast Idea" as the subject tell me about your ideas.
           </p>
          <quote-card />
         </div>
