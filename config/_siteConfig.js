@@ -30,6 +30,10 @@ export default {
       name: 'Blog',
       link: '/categories'
     },
+    {
+      name: 'Podcast',
+      link: '/podcast'
+    },
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
