@@ -1,17 +1,10 @@
 <template>
   <div class="logo-wrapper">
-    <div
-      :class="{
-        'logo-inner': true
-      }"
-    >
-      <img
-        :src="/logo.png"
-      />
+    <div class="logo-inner">
+      <img src="/logo.png"/>
     </div>
   </div>
 </template>
-
 <style lang="scss">
 @keyframes logoBlink {
   100% {
