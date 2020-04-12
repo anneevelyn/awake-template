@@ -29,14 +29,7 @@
             <p class="subtitle">
               BA Psychology, University of British Colombia
             </p>
-            <figure class="image is-1by1 ">
-              <opti-image
-                :src="require('~/assets/uploads/contact.jpg').src"
-                :srcset="
-                  require('~/assets/uploads/contact.jpg').srcSet
-                "
-              />
-            </figure>
+            <img src="./assets/uploads/contact.jpg" height=500 />
           </article>
           <h3>About Anne</h3>
            <p>
