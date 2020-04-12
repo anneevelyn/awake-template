@@ -77,13 +77,13 @@
   </div>
 </template>
 <script>
-import QuoteCard from '~/components/cards/QuoteCard'
+import QuoteCard from '~/components/cards/QuoteCardTwo'
 export default {
   head() {
     return {
       title: `About | ${this.$siteConfig.siteName}`
     }
   },
-  components: { QuoteCard }
+  components: { QuoteCardTwo }
 }
 </script>
