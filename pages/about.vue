@@ -53,7 +53,7 @@
                 YouTube
               </p>
               <p class="subtitle">
-                Watch videos about language learning tips, idomatic expressions, and other fun English content
+                Language learning tips, idomatic expressions, and other fun English content
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
