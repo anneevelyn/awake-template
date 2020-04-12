@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
-      image="/assets/uploads/home.png"
+      image="/uploads/home.png"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
