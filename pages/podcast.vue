@@ -21,7 +21,7 @@
           <p>
             I want your opinions! If there is a topic you want me to make an episode about, use the Contact form on my website to let me know. Put "Podcast Idea" as the subject tell me about your ideas.
           </p>
-          <img src="podcast-quote.jpg" alt="Listening is not the same as hearing, and hearing is not the same as listening. Pauline Oliveros" style="height:500px">
+          <img src="/uploads/podcast-quote.jpg" alt="Listening is not the same as hearing, and hearing is not the same as listening. Pauline Oliveros" style="height:500px">
         </div>
 
         <div class="tile is-ancestor">
