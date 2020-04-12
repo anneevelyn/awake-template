@@ -43,6 +43,7 @@
                Interesting topics (slow or fast speaking speed) with full transcripts
               </p>
               <figure class="image is-1by1">
+                <img src="./assets/uploads/podcast-tile.png" />
                 <opti-image width="500" height="500" />
               </figure>
             </article>
@@ -56,6 +57,7 @@
                 Language learning tips, idomatic expressions, and other fun English content
               </p>
               <figure class="image is-1by1">
+                <img src="./assets/uploads/youtube-tile.png" />
                 <opti-image width="500" height="500" />
               </figure>
             </article>
@@ -69,6 +71,7 @@
                 Read full length posts on interesting topics and language learning strategies
               </p>
               <figure class="image is-1by1">
+                <img src="./assets/uploads/blog-tile.png" />
                 <opti-image width="500" height="500" />
               </figure>
             </article>
