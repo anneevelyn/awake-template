@@ -33,13 +33,14 @@ export default {
     {
       name: 'YouTube',
       link: 'https://www.youtube.com/channel/UCslgL5Q4nY0dxWJmFh4CVUw/featured'
+      target: '_blank'
     },
     {
       name: 'Blog',
       link: '/categories'
     },    
   ],
-  
+
   hero: {
     theme: 'dark' // options: mist, light, dark
   },
