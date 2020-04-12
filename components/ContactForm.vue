@@ -4,7 +4,7 @@
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="John Smith" />
+        <input class="input is-medium" type="text" placeholder="Jane Smith" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -31,7 +31,7 @@
         <input
           class="input is-medium"
           type="text"
-          placeholder="Brief Summary"
+          placeholder="Short Summary"
         />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="briefcase" />
@@ -44,7 +44,7 @@
       <div class="control">
         <textarea
           class="textarea"
-          placeholder="Detailed description of your comment, request, etc"
+          placeholder="Detailed description of your question, comment, etc"
           rows="8"
         ></textarea>
       </div>
