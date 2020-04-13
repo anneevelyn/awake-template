@@ -11,7 +11,6 @@
           <p>
             <strong>This podcast is for intermediate English learners who want something interesting to listen to.</strong>
           </p>
-          </p>
           <p>
             I noticed that there are a lot of apps, books, and exercises for beginners, for people who are just starting to learn English. And for people who have an advanced level, they can read, watch, or listen to English content for native speakers, like American TV shows or British newspapers, because they can already understand it. 
           </p>
