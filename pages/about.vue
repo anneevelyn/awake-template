@@ -12,12 +12,14 @@
             Hi, I'm Anne. I created Elevate English after hundreds of students asked me this question. I can read, write and understand English, but I always feel blocked when speaking. What should I do? I developed a method to help English learners at all levels improve their speaking and overall language skills. This method is based on theories from psycholinguistics, learning psychology, and my experience as an ESL teacher.
           </p>
           <h3>The Elevate Method</h3>
-          <ol>
-            <li>Learn basic words and grammar</li>
-            <li>Input: Listening and Reading</li>
-            <li>Output: Speaking and Writing</li>
-            <li>Regular Practice</li>
-          </ol>
+          <p class="subtitle">
+           <ol>
+              <li>Learn basic words and grammar</li>
+             <li>Input: Listening and Reading</li>
+              <li>Output: Speaking and Writing</li>
+              <li>Regular Practice</li>
+            </ol>
+          </p>
           <p>
             <strong>Read full post to learn more about the Elevate Method</strong> 
           </p>
