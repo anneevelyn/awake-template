@@ -1,5 +1,5 @@
 ---
 name: Third Party Integrations
-image: https://picsum.photos/1800/1801
+image: 
 ---
 Extend the functionality of Awake with third party integrations
