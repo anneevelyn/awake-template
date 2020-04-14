@@ -1,4 +1,4 @@
 ---
 name: Travel
-image: /travel2.jpg
+image: /travel.jpg
 ---
