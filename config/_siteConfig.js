@@ -23,22 +23,27 @@ export default {
       link: '/about'
     },
     {
-      name: 'Contact',
-      link: '/contact'
-    },
+    name: 'Private Lessons',
+      link: 'https://www.italki.com/englishwithanne',
+      target: '_blank'
+    }
     {
       name: 'Podcast',
       link: '/podcast'
     },
     {
+      name: 'Blog',
+      link: '/categories'
+    },
+    {
       name: 'YouTube',
       link: 'https://www.youtube.com/channel/UCslgL5Q4nY0dxWJmFh4CVUw/featured',
       target: '_blank'
-    },
+    }, 
     {
-      name: 'Blog',
-      link: '/categories'
-    },    
+      name: 'Contact',
+      link: '/contact'
+    },   
   ],
 
   hero: {
