@@ -26,7 +26,7 @@ export default {
     name: 'Private Lessons',
       link: 'https://www.italki.com/englishwithanne',
       target: '_blank'
-    }
+    },
     {
       name: 'Podcast',
       link: '/podcast'
