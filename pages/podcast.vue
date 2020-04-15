@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Podcast"
-      image="/uploads/home.png"
+      image="/uploads/podcast.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
